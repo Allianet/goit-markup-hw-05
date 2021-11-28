@@ -572,6 +572,8 @@ img {
 .footer-social-link:focus {
   background-color: var(--accent-color);
 }
+
+/* Модалка */
 .backdrop {
   width: 100vw;
   height: 100vh;
